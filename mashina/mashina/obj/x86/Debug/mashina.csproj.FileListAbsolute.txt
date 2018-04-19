@@ -1,0 +1,9 @@
+C:\Users\10a 1\AppData\Local\Temporary Projects\mashina\obj\x86\Debug\mashina.Form1.resources
+C:\Users\10a 1\AppData\Local\Temporary Projects\mashina\obj\x86\Debug\mashina.Properties.Resources.resources
+C:\Users\10a 1\AppData\Local\Temporary Projects\mashina\obj\x86\Debug\mashina.csproj.GenerateResource.Cache
+C:\Users\10a 1\AppData\Local\Temporary Projects\mashina\bin\Debug\mashina.exe
+C:\Users\10a 1\AppData\Local\Temporary Projects\mashina\bin\Debug\mashina.pdb
+C:\Users\10a 1\AppData\Local\Temporary Projects\mashina\obj\x86\Debug\mashina.exe
+C:\Users\10a 1\AppData\Local\Temporary Projects\mashina\obj\x86\Debug\mashina.pdb
+C:\Users\10a 1\Documents\Visual Studio 2010\Projects\mashina\mashina\obj\x86\Debug\mashina.exe
+C:\Users\10a 1\Documents\Visual Studio 2010\Projects\mashina\mashina\obj\x86\Debug\mashina.pdb
